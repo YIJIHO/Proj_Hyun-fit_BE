@@ -1,4 +1,4 @@
-## Hyun-Fit-BE
+## Hyun-Fit-BackEnd
 
 ### 1. About The Project
   - 홈 트레이닝 웹 서비스 플랫폼, 모션인식 트레이닝과 라이브 화상트레이닝 서비스를 제공
