@@ -16,13 +16,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-e9967a?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-6a5acd?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ### 3. ERD
-![image](https://github.com/YIJIHO/Proj_Msa-Construct/assets/127674150/ae33948c-8950-4174-875b-02e04b67b24f)
+
 
 ### 4. Architecture
-![image](https://github.com/YIJIHO/Proj_Msa-Construct/assets/127674150/eaf468f9-a593-43db-985d-109241775949)
+
+
 ### 5. File Structure
 ```plaintext
-Lay-By-System
+Hyun-Fit-BE
  |-->ApiGateway
  |-->Docker
  |     └>docker-compose.yml
