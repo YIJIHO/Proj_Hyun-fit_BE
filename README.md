@@ -46,28 +46,5 @@ Hyun-Fit-BE
  └-->routine
 ```
 ### 6. API Documentation
-//개별 블로그에 첨부
 
-### 7. Command
-```plaintext
-//docker컨테이너 올리기 (인스턴스 생성) 
-docker-compose up
 
-//docker컨테이너 내리기 (인스턴스 삭제)
-docker-compose down
-
-//docker컨테이너 시작 (기존 인스턴스 시작)
-docker-compose start
-
-//docker컨테이너 정지 (기존 인스턴스 정지)
-docker-compose stop
-
-//docker network 생성
-docker network create {네트워크이름}
-
-//docker network 확인
-docker network inspect {네트워크이름}
-
-//docker network 연결
-docker network connect {네트워크이름} {컨테이너이름}
-```
