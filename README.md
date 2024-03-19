@@ -1,4 +1,4 @@
-## Hyun-fit
+## Hyun-Fit-BE
 
 ### 1. About The Project
   - 홈 트레이닝 웹 서비스 플랫폼, 모션인식 트레이닝과 라이브 화상트레이닝 서비스를 제공
@@ -42,5 +42,4 @@ Hyun-Fit-BE
  └-->routine
 ```
 ### 6. API Documentation
-
-
+https://voracious-blinker-0ff.notion.site/Api-6342c8f980cd42d2a4a04b3b8c9ac956?pvs=4
