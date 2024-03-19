@@ -23,12 +23,10 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-6a5acd?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 3. ERD
-![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/5b0d1d59-3d8a-4102-b710-b31a1c3aa9f7)
-
+![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/4310e2ff-2268-452f-b33b-272b67046873)
 
 ### 4. Architecture
 ![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/54e7ef08-9340-498e-9c47-aab7127d6e58)
-
 
 ### 5. File Structure
 ```plaintext
