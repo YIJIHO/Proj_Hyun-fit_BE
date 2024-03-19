@@ -39,4 +39,4 @@ Hyun-Fit-BE
  └-->routine
 ```
 ### 6. API Documentation
-https://voracious-blinker-0ff.notion.site/Api-6342c8f980cd42d2a4a04b3b8c9ac956?pvs=4
+ * https://voracious-blinker-0ff.notion.site/Api-6342c8f980cd42d2a4a04b3b8c9ac956?pvs=4
