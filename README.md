@@ -8,10 +8,10 @@
 
 | 팀원 |담당기능|
 |:--------:|:----:|
-|김진우| 회원, 백오피스, DB설계|
-|양석진| AI트레이닝, 회원|
-|이지호| 라이브트레이닝, 예약, DB설계|
-|최승렬| 인프라, 메인, AI트레이닝|
+| 김진우 | 회원, 백오피스, DB설계|
+| 양석진 | AI트레이닝, 회원|
+| 이지호 | 라이브트레이닝, 예약, DB설계|
+| 최승렬 | 인프라, 메인, AI트레이닝|
 
 ### 2. Specification
 ![Java](https://img.shields.io/badge/Java-9932cc?style=for-the-badge&logo=java&logoColor=white&labelColor=gray&label=17)
