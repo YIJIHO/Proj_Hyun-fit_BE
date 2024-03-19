@@ -23,24 +23,27 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-e9967a?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-6a5acd?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 ### 3. ERD
+![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/5b0d1d59-3d8a-4102-b710-b31a1c3aa9f7)
 
 
 ### 4. Architecture
+![image](https://github.com/YIJIHO/Proj_Hyun-fit_BE/assets/127674150/54e7ef08-9340-498e-9c47-aab7127d6e58)
 
 
 ### 5. File Structure
 ```plaintext
 Hyun-Fit-BE
- |-->ApiGateway
- |-->Docker
- |     └>docker-compose.yml
- |-->UserModule
- |-->ActiveModule
- |-->NewsfeedModule
- |-->ProductModule
- |-->OrderModule
- └-->Managing-StockModule
+ |-->member
+ |-->administrator
+ |-->member_event
+ |-->trainer
+ |-->trainer_feedback
+ |-->exercise
+ |-->exercise_history
+ |-->exercise_target
+ └-->routine
 ```
 ### 6. API Documentation
 //개별 블로그에 첨부
