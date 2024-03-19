@@ -13,9 +13,7 @@
 |이지호|라이브트레이닝,예약,DB설계|
 |최승렬|인프라,메인,AI트레이닝|
 
-### 2. 
-
-### 3. Specification
+### 2. Specification
 ![Java](https://img.shields.io/badge/Java-9932cc?style=for-the-badge&logo=java&logoColor=white&labelColor=gray&label=17)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=gray&label=3.2.2)
 ![Oracle](https://img.shields.io/badge/Oracle-DC382D?style=for-the-badge&logo=oracle&logoColor=white)
